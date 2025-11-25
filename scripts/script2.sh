@@ -63,23 +63,23 @@ while true; do
 
         echo ILLUMINACLIP:
         read -r answrILLUMINACLIP
-        illuminaclip="ILLUMINACLIP: $answrILLUMINACLIP"
+        illuminaclip="ILLUMINACLIP:$answrILLUMINACLIP"
 
         echo LEADING:
         read -r answrLEADING
-        leading="LEADING: $answrLEADING"
+        leading="LEADING:$answrLEADING"
 
         echo TRAILING:
         read -r answrTRAILING
-        trailing="TRAILING: $answrTRAILING"
+        trailing="TRAILING:$answrTRAILING"
 
         echo SLIDINGWINDOW:
         read -r answrSLIDINGWINDOW
-        slidingwindow="SLIDINGWINDOW: $answrSLIDINGWINDOW"
+        slidingwindow="SLIDINGWINDOW:$answrSLIDINGWINDOW"
 
         echo MINLEN:
         read -r answrMINLEN
-        minlen="MINLEN: $answrMINLEN"
+        minlen="MINLEN:$answrMINLEN"
         break
 
     else
