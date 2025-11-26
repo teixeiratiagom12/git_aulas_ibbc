@@ -222,11 +222,11 @@ settings, and indicate whether this is a rerun.
 
 1.  **Run script3.sh** to ensure all required tools are installed:
 
-        bash 01_check_and_install_packages.sh
+        bash script3.sh
 
 2.  **Run script1.sh** to create the project structure:
 
-        bash 02_setup_directories.sh
+        bash script1.sh
 
 3.  **Place your raw FASTQ files** into:
 
@@ -234,7 +234,7 @@ settings, and indicate whether this is a rerun.
 
 4.  **Run Script 3** to process all samples:
 
-        bash 03_qc_and_trimming_pipeline.sh
+        bash script2.sh
 
 5.  Review generated **FastQC**, **MultiQC**, and **trimmed FASTQ
     files**.
