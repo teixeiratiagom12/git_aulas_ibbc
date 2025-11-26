@@ -48,7 +48,7 @@ Before running this pipeline, ensure:
 
 -   You have a conda environment to install the necessary packages
     (beware that in script 2 and 3 i use a conda environment called
-    “tools\_qc”, so if your environment has other name you have to
+    **`tools_qc`**, so if your environment has other name you have to
     change the **env\_name** atribute in both scripts).
 
 -   It is **necessary** to modify the **personal\_area** atribute in script1 and 2 to your own desired **base**
