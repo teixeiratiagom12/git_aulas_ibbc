@@ -51,9 +51,7 @@ Before running this pipeline, ensure:
     “tools\_qc”, so if your environment has other name you have to
     change the **env\_name** atribute in both scripts).
 
--   It is **necessary** to modify the
-
--   **personal\_area** atribute in script1 and 2 to your own desired **base**
+-   It is **necessary** to modify the **personal\_area** atribute in script1 and 2 to your own desired **base**
     path.
 
 ------------------------------------------------------------------------
