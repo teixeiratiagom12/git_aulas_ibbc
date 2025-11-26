@@ -84,7 +84,7 @@ The script outputs the installation status of each package.
 
 ------------------------------------------------------------------------
 
-# 📁 Script1 — Directory Structure Setup
+# 📁 Script1 - Directory Structure Setup
 
 ### `Script1.sh`
 
@@ -111,7 +111,7 @@ into `01_rawdata`.
 
 ------------------------------------------------------------------------
 
-# 🧬 Script2 — QC & Trimming Pipeline
+# 🧬 Script2 - QC & Trimming Pipeline
 
 ### `script2.sh`
 
