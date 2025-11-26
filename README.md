@@ -198,14 +198,14 @@ samples in case the script stopped mid analysis.
         <sample>_R1_unpaired.fastq.gz
         <sample>_R2_unpaired.fastq.gz
 
-### **🔹 Trimmed QC**
+### **Trimmed QC**
 
     02_qc_data/<sample>_t/
         *_fastqc.html
         *_fastqc.zip
         <sample>_t_multiqc/<sample>_t_multiqc_report.html
 
-### **🔹 Logs**
+### **Logs**
 
     04_logs/proceedings_record.log
 
